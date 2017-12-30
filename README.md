@@ -3,5 +3,5 @@ My first repository!
 
 
 
-I love Ersin!
+I like Ersin!
 
